@@ -1,0 +1,13 @@
+Abaixo, comandos importantes para utilizaçao no Git Bash (Windows):
+
+dir : Traz pastas (lista diretórios)
+cd : Direciona para diretório específico ... Ex.: unidade C: /c
+cd.. : Retrocede um diretório
+cls : Utilizado para limpar o cmd (também se utiliza o Ctrl+L)
+tab : autocompleta a comando em utilização
+mkdir : cria pasta/diretório
+del : deleta arquivos
+seta para cima : histórico de utilização
+rmdir : remove tudo (arquivos e pastas)
+ls : lista o que tem dentro da pasta/diretório
+pwd : mostra caminho completo da pasta/diretório
