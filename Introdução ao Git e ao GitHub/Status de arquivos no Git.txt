@@ -1,0 +1,10 @@
+Status de arquivos no Git:
+
+Untracked - O Git não reconhece o arquivo, não está controlando o ciclo de vida dele. Para que o Git passe a ser responsável por ele, deve-se utilizar o "git add".
+
+Unmodified - O arquivo existe e é reconhecido pelo Git, sem alterações em realação à última versão (em relação ao último commit realizado).
+
+Modified - Indica que o arquivo foi modificado, quando comparado com o último commit realizado.
+
+Staged - são os arquivos que estão no staging area. São aqueles que estão no próximo commit.
+
