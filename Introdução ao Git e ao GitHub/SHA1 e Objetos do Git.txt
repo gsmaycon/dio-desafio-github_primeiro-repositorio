@@ -1,0 +1,8 @@
+SHA1: 
+Algoritmo de Hash Seguro
+Encriptografia com 40 dígitos
+
+Objetos do Git:
+Blobs: Contém metadados do objeto
+Trees: Armazenam blobs
+Commits: unifica tudo (trees e blobs)
